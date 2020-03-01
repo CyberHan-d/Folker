@@ -1,0 +1,48 @@
+body {
+  background-color: black !important;
+}
+
+header h1 {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-family: "Kelly Slab";
+  color: white;
+}
+
+.display {
+  height: 500px;
+  border: solid green 2px;
+}
+
+.interface {
+  background-image: url(../img/bg-interface-1.png);
+}
+
+.interface h2 {
+  font-family: "Press Start 2P";
+  color: yellow;
+  font-size: 22px;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.interface ul {
+  color: yellow;
+  font-family: "Press Start 2P";
+  text-align: center;
+  padding-top: 10%;
+}
+
+.interface li {
+  padding-bottom: 5%;
+  font-size: 18px;
+}
+
+.display {
+  background-image: url(../img/bg_main_display.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*# sourceMappingURL=style.css.map */
